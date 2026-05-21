@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # Hybrid Parallel Computing System (MPI + OpenMP) 🚀
 
 A high-performance **Hybrid Parallel System** implemented in C++ that demonstrates the integration of **MPI (Message Passing Interface)** for distributed memory management and **OpenMP (Open Multi-Processing)** for shared memory multi-threading. 
